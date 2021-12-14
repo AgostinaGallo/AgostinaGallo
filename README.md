@@ -8,7 +8,7 @@
 ✍️ &nbsp; En mi tiempo libre, toco la guitarra y piano, practico natación y persigo la lectura de la filosofía como algunos de mis hobbies. \
 ✉️ &nbsp; Podés contactarme vía mail a agostinamgallo@gmail.com. Siempre trataré de responder lo más pronto posible!.
  
-### 🛠 &nbsp;Stack Tecnológico | Tech Stack
+### 🛠 &nbsp;Stack Tecnológico
 
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
