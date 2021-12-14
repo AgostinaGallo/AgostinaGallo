@@ -6,7 +6,7 @@
 🎓&nbsp; Me recibí de la carrera Analista Programador y estoy concluyendo la etapa final de la carrera Analista de Sistemas. En Posadas, Misiones, Argentina (2021). \
 🌱 &nbsp; Estoy en el camino del aprendizaje de herramientas Back End y en la capacitación continua de idiomas como inglés y alemán. \
 ✍️ &nbsp; En mi tiempo libre, toco la guitarra y piano, practico natación y persigo la lectura de la filosofía como algunos de mis hobbies. \
-✉️ &nbsp; Podés contactarme vía mail a agostinamgallo@gmail.com. Siempre trataré de responder lo más pronto posible!\
+✉️ &nbsp; Podés contactarme vía mail a agostinamgallo@gmail.com. Siempre trataré de responder lo más pronto posible!. \
  
 ### 🛠 &nbsp;Stack Tecnológico | Tech Stack
 
