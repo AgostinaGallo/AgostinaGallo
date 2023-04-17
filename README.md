@@ -1,12 +1,5 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hola!
 
-### 👨🏻‍💻 &nbsp;Acerca de mí
-
-💡 &nbsp; Soy Analista Programadora y Desarrolladora Web Full Stack, trabajando en la codificación de aplicaciones web usando el framework Laravel. \
-🎓&nbsp; Me recibí de la carrera Analista Programador y estoy concluyendo la etapa final de la carrera Analista de Sistemas. En Posadas, Misiones, Argentina (2021). \
-🌱 &nbsp; Estoy en el camino del aprendizaje de herramientas Back End y en la capacitación continua de idiomas como inglés y alemán. \
-✍️ &nbsp; En mi tiempo libre, toco la guitarra y piano, practico natación y persigo la lectura de la filosofía como algunos de mis hobbies. \
-✉️ &nbsp; Podés contactarme vía mail a agostinamgallo@gmail.com. Siempre trataré de responder lo más pronto posible!.
  
 ### 🛠 &nbsp;Stack Tecnológico
 
